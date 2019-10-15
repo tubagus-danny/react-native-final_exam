@@ -1,0 +1,140 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Shoes"
+    },
+    {
+      "id": 2,
+      "title": "Kits"
+    },
+    {
+      "id": 3,
+      "title": "Training Stuff"
+    }
+  ],
+  "category_products": [
+    {
+      "id": 1,
+      "products": [
+        {
+          "id": 1,
+          "name": "Accelerator Lightspeed II FG-Silver/Fiery Coral",
+          "brand": "SPECS",
+          "image": "https://sportaways.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/p/specs_acc_light_speed_ii_fg_silver_fiery_coral_-_1-min.jpg",
+          "price": 899800
+        },
+        {
+          "id": 2,
+          "name": "Nike Mercurial Vapor 13 Academy MDS MG",
+          "brand": "NIKE",
+          "image": "https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto/behxivrcauo6mdmwmf0k/mercurial-vapor-13-academy-mds-mg-multi-ground-football-boot-ltJNt4.jpg",
+          "price": 1199000
+        },
+        {
+          "id": 3,
+          "name": "Nike Phantom Venom Elite FG",
+          "brand": "NIKE",
+          "image": "https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto/gzmpbpf2oxhnxpndssnd/phantom-venom-elite-fg-football-boot-g82Qd0.jpg",
+          "price": 2848000
+        },
+        {
+          "id": 4,
+          "name": "Copa 19.1 Firm Ground Boots",
+          "brand": "ADIDAS",
+          "image": "https://www.prodirectsoccer.com/productimages/V3_1_Main/204704_Main_Thumb_0537031.jpg",
+          "price": 2800000
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "products": [
+        {
+          "id": 2,
+          "name": "Nike F.C. Home",
+          "brand": "NIKE",
+          "image": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/dsqegmgikjdjolz0ntwt/fc-home-short-sleeve-football-shirt-VfHjj2.jpg",
+          "price": 649000
+        },
+        {
+          "id": 3,
+          "name": "Jersey Tabela 18",
+          "brand": "ADIDAS",
+          "image": "https://static.shop.adidas.co.id/media/catalog/product/cache/2/thumbnail/1200x/9df78eab33525d08d6e5fb8d27136e95/C/E/CE8935_FC_eCom.jpg",
+          "price": 250000
+        },
+        {
+          "id": 1,
+          "name": "Tee TAN Graphic Cotton",
+          "brand": "ADIDAS",
+          "image": "https://static.shop.adidas.co.id/media/catalog/product/cache/2/thumbnail/1200x/9df78eab33525d08d6e5fb8d27136e95/D/T/DT9432_FC_eCom.jpg",
+          "price": 600000
+        },
+        {
+          "id": 4,
+          "name": "Jersey TAN Training",
+          "brand": "ADIDAS",
+          "image": "https://static.shop.adidas.co.id/media/catalog/product/cache/2/thumbnail/1200x/9df78eab33525d08d6e5fb8d27136e95/D/W/DW8456_FC_eCom.jpg",
+          "price": 225000
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "products": [
+        {
+          "id": 4,
+          "name": "Ground Disc Set (40 pieces + hanger)",
+          "brand": "SPECS",
+          "image": "https://id-test-11.slatic.net/p/55c0113f4753c658a685fbe5522957c1.jpg",
+          "price": 329800
+        },
+        {
+          "id": 2,
+          "name": "Head Agility Ladder 7,5meter Original",
+          "brand": "HEAD",
+          "image": "https://ecs7.tokopedia.net/img/cache/700/product-1/2018/2/13/6398434/6398434_47188790-b32e-4f67-b448-c1a64e2b9961_600_600.jpg",
+          "price": 950000
+        },
+        {
+          "id": 3,
+          "name": "Set of Diamond Boundary Poles with Carry Bag. Senior Slalom Poles 1.7m Tall",
+          "brand": "FORZA",
+          "image": "https://images-na.ssl-images-amazon.com/images/I/719sn%2Bv1LTL._SL1000_.jpg",
+          "price": 400000
+        }        
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Name 1",
+      "brand": "Brand 1",
+      "image": "https://ecs7.tokopedia.net/img/cache/700/product-1/2017/12/11/5010857/5010857_0e9e8106-1db5-47d1-b67b-a3f6395c9ec4_700_560.jpg",
+      "price": 49.99
+    },
+    {
+      "id": 2,
+      "name": "Name 2",
+      "brand": "Brand 1",
+      "image": "https://ecs7.tokopedia.net/img/cache/700/product-1/2017/12/11/5010857/5010857_0e9e8106-1db5-47d1-b67b-a3f6395c9ec4_700_560.jpg",
+      "price": 59.99
+    },
+    {
+      "id": 3,
+      "name": "Name 3",
+      "brand": "Brand 3",
+      "image": "https://ecs7.tokopedia.net/img/cache/700/product-1/2017/12/11/5010857/5010857_0e9e8106-1db5-47d1-b67b-a3f6395c9ec4_700_560.jpg",
+      "price": 54.99
+    },
+    {
+      "id": 4,
+      "name": "Name 4",
+      "brand": "Brand 2",
+      "image": "https://ecs7.tokopedia.net/img/cache/700/product-1/2017/12/11/5010857/5010857_0e9e8106-1db5-47d1-b67b-a3f6395c9ec4_700_560.jpg",
+      "price": 39.99
+    }
+  ]
+}
